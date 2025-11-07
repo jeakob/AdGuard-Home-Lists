@@ -913,7 +913,6 @@
 @@|support.kaspersky.com^$important
 @@|support2.kaspersky.com^$important
 @@|sv.symcd.com^$important
-@@|tags.tiqcdn.com^$important
 @@|target.com^$important
 @@|targetednotifications-tm.trafficmanager.net^$important
 @@|telemetry.malwarebytes.com^$important
@@ -1267,4 +1266,5 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
