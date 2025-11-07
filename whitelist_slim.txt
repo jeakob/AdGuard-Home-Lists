@@ -522,7 +522,6 @@
 @@|img33.imagetwist.com^$important
 @@|imgs.hcaptcha.com^$important
 @@|impactserving.com^$important
-@@|improving.duckduckgo.com^$important
 @@|imx.to^$important
 @@|in.appcenter.ms^$important
 @@|index.kaspersky.com^$important
@@ -1268,3 +1267,4 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
