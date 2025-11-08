@@ -1234,7 +1234,6 @@
 @@||www.klaviyo.com^$important
 @@||v.shopify.com^$important
 @@||cdn.dynamicyield.com^$important
-@@||github.com^$important
 @@||www.aliexpress.com^$important
 @@||a.aliexpress.com^$important
 @@||fmhy.net^$important
@@ -1266,5 +1265,6 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
 
