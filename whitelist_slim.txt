@@ -540,7 +540,6 @@
 @@|joplinapp.org^$important
 @@|jp.pool.ntp.org^$important
 @@|jquery.com^$important
-@@|js-agent.newrelic.com^$important
 @@|js.hcaptcha.com^$important
 @@|juno-error-reporter-prod-junoerrorreporters*.s3.amazonaws.com^$important
 @@|k2s.cc^$important
@@ -607,7 +606,6 @@
 @@|member.hitnews.com^$important
 @@|mimir.vivaldi.com^$important
 @@|mk0ghacksnety2pjrgh8.kinstacdn.com^$important
-@@|mobile-collector.newrelic.com^$important
 @@|mobile.kaspersky.com^$important
 @@|moddb.com^$important
 @@|mpc-hc.org^$important
@@ -1255,6 +1253,7 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
 
 
