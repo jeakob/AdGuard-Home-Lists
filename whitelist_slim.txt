@@ -4,7 +4,6 @@
 @@|*._dns-sd._udp.*.in-addr.arpa^$important
 @@|*.b.akamaiedge.net^$important
 @@|*.bootstrap.libp2p.io^$important
-@@|*.branch.io^$important
 @@|*.cdnrobot.xyz^$important
 @@|*.cloudfront.net^$important
 @@|*.disquscdn.com^$important
@@ -1256,6 +1255,7 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
 
 
