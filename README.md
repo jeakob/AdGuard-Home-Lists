@@ -18,15 +18,6 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © hl2guide 2024_
-
-## 📰 Important
-
-- As of Dec 8th, 2024 I've paused updating this repo and am no longer using AdGuard Home
-    - This is due to bad release of AdGuard Home (related to permissions) that broke AdGuard Home's install on Windows 11 making it unviable
-- I suggest you consider better options like AdGuard for Windows (paid, but sometimes it's cheap)
-- I'm likely no longer going to update this repo
-
 ## Aspects ⏺
 
 ### What's Whitelisted ✔
@@ -72,3 +63,4 @@ I will update this repo infrequently and sporadically.
 ## Usage 💚
 
 See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
+
