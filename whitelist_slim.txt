@@ -415,7 +415,6 @@
 @@|forums.plex.tv^$important
 @@|forums.roku.com^$important
 @@|forums.sabnzbd.org^$important
-@@|forums.whirlpool.net.au^$important
 @@|forums.xda-developers.com^$important
 @@|fossbytes.com^$important
 @@|fp-*-nocache.azureedge.net^$important
@@ -446,7 +445,6 @@
 @@|getmusicbee.com^$important
 @@|getsharex.com^$important
 @@|ghacks.net^$important
-@@|gift.card.auspost^$important
 @@|globalupload.io^$important
 @@|gmail.com^$important
 @@|go.dev^$important
@@ -609,8 +607,6 @@
 @@|mem.gfx.ms^$important
 @@|member.hitnews.com^$important
 @@|mimir.vivaldi.com^$important
-@@|mirror.aarnet.edu.au^$important
-@@|mirror.internet.asn.au^$important
 @@|mk0ghacksnety2pjrgh8.kinstacdn.com^$important
 @@|mobile-collector.newrelic.com^$important
 @@|mobile.kaspersky.com^$important
@@ -836,18 +832,13 @@
 @@|speed.cloudflare.com^$important
 @@|speed4.snap.net.nz.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.apac-tools.ovh.prod.hosts.ooklaserver.net^$important
-@@|speedtest-syd.launtel.net.au.prod.hosts.ooklaserver.net^$important
-@@|speedtest-syd.launtel.net.au^$important
 @@|speedtest-syd.vocus.net.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.vocus.net^$important
 @@|speedtest.net^$important
-@@|speedtest.syd.netsg.net.au.prod.hosts.ooklaserver.net^$important
-@@|speedtest.syd.netsg.net.au^$important
 @@|sphinx.acast.com^$important
 @@|sponsor.ajay.app^$important
 @@|spoprod-a.akamaihd.net^$important
 @@|squidblacklist.org^$important
-@@|srv.au.ebayrtm.com^$important
 @@|srv01.codefusion.technology^$important
 @@|srv02.codefusion.technology^$important
 @@|srv03.codefusion.technology^$important
@@ -1265,6 +1256,7 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
 
 
