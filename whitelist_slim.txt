@@ -1215,7 +1215,7 @@
 @@||oempprd.samsungcloudsolution.com^$client='192.168.0.14'
 @@||osb-apps-v2.samsungqbe.com^$client='192.168.0.7'
 @@||gpm.samsungqbe.com^$client='192.168.0.7'
-@@||log-config.samsungacr.com^$client='192.168.0.7'
+## Remove as a test@@||log-config.samsungacr.com^$client='192.168.0.7'
 @@||notice.samsungcloudsolution.com^$client='192.168.0.7'
 @@||oempprd.samsungcloudsolution.com^$client='192.168.0.7'
 @@||cwwk.net^$important
@@ -1253,6 +1253,7 @@
 @@||oempprd.samsungcloudsolution.com^$important
 @@||eneba-games.sjv.io^$important
 @@||awstrack.me^$important
+
 
 
 
